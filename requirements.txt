@@ -1,0 +1,11 @@
+# PaddleOCR 依赖版本 (测试通过)
+# Python 3.11
+
+paddlepaddle==2.6.2
+paddleocr==2.7.3
+opencv-python==4.5.5.64
+numpy<2.0
+
+# 可选依赖
+pyautogui
+pyperclip
